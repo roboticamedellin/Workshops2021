@@ -1,0 +1,20 @@
+name: AutonomousCar
+channels:
+  - defaults
+dependencies:
+  - ffmpeg
+  - h5py
+  - numpy
+  - opencv
+  - pip
+  - py-opencv
+  - python=3.*
+  - tensorflow
+  - ipykernel
+  - matplotlib
+  - csv
+  - pip:
+    - eventlet
+    - flask
+    - pillow
+    - python-socketio
