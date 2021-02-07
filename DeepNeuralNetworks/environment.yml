@@ -12,6 +12,8 @@ dependencies:
   - tensorflow
   - ipykernel
   - matplotlib
+  - nomkl
+  - pandas
   - pip:
     - eventlet
     - flask
