@@ -15,6 +15,7 @@ jupyter-notebook
 ## DonkeyCar sim
 - [Sim step 1](https://docs.donkeycar.com/guide/install_software/#step-1-install-software-on-host-pc)
 - [Sim step 2](https://docs.donkeycar.com/guide/simulator/)
+- [Colab](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/vision/ipynb/image_classification_from_scratch.ipynb)
 
 ## References ##
 - [Fix for Unexpected crash with python, numpy, matplot & tensorflow](https://github.com/dmlc/xgboost/issues/1715)
