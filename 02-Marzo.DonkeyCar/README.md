@@ -6,7 +6,7 @@
 ## DonkeyCar sim
 - [Sim step 1](https://docs.donkeycar.com/guide/install_software/#step-1-install-software-on-host-pc)
 - [Sim step 2](https://docs.donkeycar.com/guide/simulator/)
-- [Donkey Colab and sim](https://colab.research.google.com/github/robocarstore/donkey-car-training-on-google-colab/blob/master/Donkey_Car_Training_using_Google_Colab.ipynb)
+- [Donkey Colab and sim](https://colab.research.google.com/drive/1Y83lEsmkVEaEZSgq-xQ9g4V3ZfothOQx#scrollTo=wlwZuLKA56nt)
 
 ## other usefull resources
 - [Donkey Colab (original)](https://colab.research.google.com/github/robocarstore/donkey-car-training-on-google-colab/blob/master/Donkey_Car_Training_using_Google_Colab.ipynb)
